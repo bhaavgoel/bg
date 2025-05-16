@@ -1,0 +1,4 @@
+switch(c)
+{
+case 1:
+printf("cse")
