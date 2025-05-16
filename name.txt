@@ -1,2 +1,2 @@
 #just a txt file on 3rd commit
-new eddition line for merg_test
+new edit line for merge_ed now okay
