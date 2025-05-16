@@ -1,5 +1,6 @@
 #just a txt file on 3rd commit
+<<<<<<< HEAD
 new addition line for merg_test
-
+=======
 new edit line for merge_ed now okay
- test
+>>>>>>> test
