@@ -1,3 +1,10 @@
 #parse block cmd for openbullet
 PARSE "<SOURCE>" LR "name=\"__RequestVerificationToken\" type=\"hidden\" value=\"" "\"" EncodeOutput=TRUE -> VAR "ver"
+<<<<<<< HEAD
 random text
+=======
+test branch parse.txt file is updated (branch)
+
+
+random text 2
+>>>>>>> test
